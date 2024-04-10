@@ -1,9 +1,7 @@
 import sys
-import os
 import pandas as pd
 from sqlalchemy import create_engine
 
-os.chdir("C:\\Users\\DMuriungi\\OneDrive - CENTER FOR INTERNATIONAL HEALTH, EDUCATION AND BIOSECURITY - KENYA\\Desktop\\Doris\\md\\DS\\Disaster Response Pipeline\project_materials")
 def extract_data(messages_file_path, categories_file_path):
   # load datasets
   messages = pd.read_csv('messages_filepath')
