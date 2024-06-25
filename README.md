@@ -8,11 +8,11 @@ Key Sections of the Project:
 Creation of an ETL (Extract, Transform, Load) pipeline to extract data, preprocess for modelling and load the clean data in a SQLite database.
 
 3. Machine Learning Pipeline:
-
+*pending
 Development of a machine learning pipeline for classifying text messages into various categories.
 
 4. Web Application Development:
-
+*pending
 Creation of a web application to showcase the model's results in real-time.
 Providing users with an interface to input messages and receive classification results instantly.
 
